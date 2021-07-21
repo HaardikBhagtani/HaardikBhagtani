@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Haardik Bhagtani
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Python web frameworks
-- 💞️ I’m looking to collaborate on a Python project
+- 🌱 I’m currently learning Python web frameworks and mastering Flutter Development
+- 💞️ I’m looking to collaborate on a Python and/or Flutter project
 - 📫 How to reach me [Email](haardikparas@gmail.com) or [LinkedIn](https://www.linkedin.com/in/haardikbhagtani/)
 
 <!---
