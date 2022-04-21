@@ -31,11 +31,6 @@ src="https://img.shields.io/github/followers/HaardikBhagtani?logo=github&style=f
 
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/HaardikBhagtani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/haardik198" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/haardikbhagtani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bhaardik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://haardikbhagtani.me/" target="_blank" rel="noreferrer"><img src="https://haardikbhagtani.me/favicon.png" width="36" height="36" alt="Website" /></a></p>
-
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -45,6 +40,16 @@ src="https://img.shields.io/github/followers/HaardikBhagtani?logo=github&style=f
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/HaardikBhagtani/Tic-Tac-Toe" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HaardikBhagtani&repo=Tic-Tac-Toe&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/HaardikBhagtani/job_listing_flutter" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=HaardikBhagtani&repo=job_listing_flutter&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<img src="https://gpvc.arturio.dev/HaardikBhagtani" align="center" />
+  
+
+### Socials
+
+<div align="center">
+<p align="left"> <a href="https://www.github.com/HaardikBhagtani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/haardik198" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/haardikbhagtani" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/bhaardik" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a><a href="https://haardikbhagtani.me/" target="_blank" rel="noreferrer"><img src="https://haardikbhagtani.me/favicon.png" width="36" height="36" alt="Website" /></a></p>
+
+
 
 <!---
 HaardikBhagtani/HaardikBhagtani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
