@@ -9,7 +9,7 @@ I am doing cross-platform mobile app development with Flutter since last year Ma
 * 🌍  I'm based in Kanpur, India.
 * 🖥️  See my portfolio at [haardikbhagtani.me](http://haardikbhagtani.me/)
 * ✉️  You can contact me at [Email](mailto:haardikparas@gmail.com) or [LinkedIn](https://www.linkedin.com/in/haardikbhagtani/)
-* 🧠  I'm learning SQL
+* 🧠  I'm learning SQL and Java
 * 🤝  I'm open to collaborating on Flutter projects.
 
 <a href="https://www.twitter.com/bhaardik" target="_blank" rel="noreferrer"><img
