@@ -1,4 +1,4 @@
-Hi 👋 My name is Haardik Bhagtani
+Hi 👋 My name is Haardik B.
 =================================
 
 Mobile App Developer
@@ -6,7 +6,7 @@ Mobile App Developer
 
 I am doing cross-platform mobile app development with Flutter since last year May, 2021. I am always open to collaborate on projects and innovative open-source based ideas.
 
-* 🌍  I'm based in Kanpur, India.
+* 🌍  I'm based in India.
 * 🖥️  See my portfolio at [haardikbhagtani.me](http://haardikbhagtani.me/)
 * ✉️  You can contact me at [Email](mailto:haardikparas@gmail.com) or [LinkedIn](https://www.linkedin.com/in/haardikbhagtani/)
 * 🧠  I'm learning SQL and Java
