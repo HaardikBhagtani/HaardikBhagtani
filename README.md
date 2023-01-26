@@ -11,9 +11,9 @@ I am doing cross-platform mobile app development with Flutter since last year Ma
 * ✉️  You can contact me at [Email](mailto:haardikparas@gmail.com) or [LinkedIn](https://www.linkedin.com/in/haardikbhagtani/)
 * 🧠  I'm learning SQL and Java
 * 🤝  I'm open to collaborating on Flutter projects.
-
+<!-- "https://img.shields.io/twitter/follow/bhaardik?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" -->
 <a href="https://www.twitter.com/bhaardik" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/bhaardik?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+src="https://img.shields.io/badge/follow-%40bhaardik-1DA1F2?logo=twitter&style=for-the-badge"
 /></a><a href="https://www.github.com/HaardikBhagtani" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/HaardikBhagtani?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
