@@ -5,6 +5,8 @@ Mobile App Developer
 --------------------
 
 I am doing cross-platform mobile app development with Flutter since May, 2021. I am always open to collaborate on projects and innovative open-source based ideas.
+I enjoy meeting new people and getting to know about their journeys.
+In the end, it’s all about connecting and building strong relationships.
 
 * 🌍  I'm based in India.
 * 🖥️  See my portfolio at [haardikbhagtani.codes](http://haardikbhagtani.codes/)
