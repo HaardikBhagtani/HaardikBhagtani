@@ -1,7 +1,7 @@
-Hi 👋 My name is Haardik B.
+Hi 👋 My name is Zing02.
 =================================
 
-Mobile App Developer
+Security Engineer
 --------------------
 
 I am doing cross-platform mobile app development with Flutter since May, 2021. I am always open to collaborate on projects and innovative open-source based ideas.
@@ -37,6 +37,8 @@ src="https://img.shields.io/github/followers/HaardikBhagtani?logo=github&style=f
 </p>
 
 ### Badges
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/zing02hack.png" alt="Your Image Badge" />
 
 <b>My GitHub Stats</b>
 
